@@ -3,8 +3,9 @@
 
 
 
-
-
+/*----------------------------------
+Created by Jakub Czaja
+-----------------------------------*/
 
 
 typedef struct matrix matrix;
